@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "八股/计算机基础/计算机网络/应用层.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "应用层 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "八股/计算机基础/计算机网络/应用层.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "应用层 的出链列表"
             }
           },
           {
@@ -184,24 +186,26 @@
   },
   "active": "663b1870ea1e6662",
   "lastOpenFiles": [
+    "attachment/ea962cb32d29a7678a6cddb1976be336.jpg",
+    "attachment/Pasted image 20260527163447.png",
+    "attachment/Pasted image 20260527162623.png",
+    "attachment/Pasted image 20260527152917.png",
+    "attachment/Pasted image 20260527150445.png",
+    "attachment/Pasted image 20260527141828.png",
+    "算法/递归思想/4.动态规划.md",
+    "attachment/Pasted image 20260527140005.png",
+    "attachment/Pasted image 20260527133106.png",
+    "八股/redis/3.Redis 缓存.md",
     "八股/计算机基础/计算机网络/应用层.md",
+    "attachment/Pasted image 20260526170704.png",
+    "attachment/Pasted image 20260526162801.png",
+    "attachment/Pasted image 20260526162533.png",
     "算法/其他/数学算法.md",
     "算法/其他/贪心.md",
     "算法/Leetcode hot 100.md",
-    "算法/递归思想/4.动态规划.md",
-    "attachment/Pasted image 20260526134727.png",
-    "attachment/Pasted image 20260525140725.png",
-    "attachment/Pasted image 20260525133701.png",
     "八股/java/Spring.md",
-    "attachment/Pasted image 20260523140347.png",
-    "attachment/Pasted image 20260523133143.png",
-    "attachment/Pasted image 20260523131817.png",
     "算法/算法ReadMe.md",
     "八股/AI应用开发/agent.md",
-    "attachment/Pasted image 20260522215741.png",
-    "attachment/Pasted image 20260522214601.png",
-    "attachment/Pasted image 20260522213746.png",
-    "attachment/Pasted image 20260522212750.png",
     "算法/递归思想/3.回溯.md",
     "算法/递归思想/1.链表与树.md",
     "算法/数据结构/技巧.md",
@@ -216,11 +220,9 @@
     "算法/递归思想/2.图.md",
     "八股/redis/4.Redis 基础.md",
     "八股/redis/2.Redis 集群.md",
-    "八股/redis/3.Redis 缓存.md",
     "八股/mysql/2.MySQL日志.md",
     "八股/mysql/1.MySQL事务.md",
     "八股/redis/1.Redis数据结构，数据类型.md",
-    "八股/八股Readme.md",
     "算法/其他",
     "算法/递归思想",
     "算法/数据结构",
